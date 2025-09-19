@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: Git makes it easy to share, manage, and collaborate on code using simple terminal command line actions and the internet.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied to law, to retreive and keep track of different laws and regulations.
+q2
