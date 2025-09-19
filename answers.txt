@@ -6,3 +6,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be applied to law, to retreive and keep track of different laws and regulations.
 q2
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines and preserves the histories, while rebasing creates a linear history.
